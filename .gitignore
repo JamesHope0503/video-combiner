@@ -1,7 +1,8 @@
-/其它/*
 /release/*
 .env
 .env.*
 !.env.example
 *.pem
 *.key
+/其它/*
+截图/*
